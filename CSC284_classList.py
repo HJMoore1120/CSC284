@@ -16,8 +16,8 @@ CSC284_2025SP=[
     'Miller, CMille81',
     'Aguirre, Jason'  # Added my name
     'Muin, Emmanuel'
-    'Kelly, Jamiyah'
-
+    'Kelly, Jamiyah',
+    'Ayala, Kevin'
 ]
 
 # ============================sort the list
