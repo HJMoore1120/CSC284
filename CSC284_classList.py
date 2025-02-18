@@ -17,6 +17,7 @@ CSC284_2025SP=[
     'Aguirre, Jason',  # Added my name
     'Muin, Emmanuel',
     'Kelly, Jamiyah',
+    'John Gallagher aka(masterHazzrd)',
     'Ka, Elizabeth'
     'Aguirre, Jason'  # Added my name
     'Muin, Emmanuel'
