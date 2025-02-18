@@ -16,6 +16,7 @@ CSC284_2025SP=[
     'Miller, CMille81',
     'Aguirre, Jason',  # Added my name
     'Muin, Emmanuel',
+    'Sanchez, Rosario'
     'Kelly, Jamiyah',
     'Wilkes, Kiarey'
     'John Gallagher aka(masterHazzrd)',
