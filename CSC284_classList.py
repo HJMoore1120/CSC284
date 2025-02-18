@@ -14,10 +14,22 @@ CSC284_2025SP=[
     'Moore, Joel',
     'Student, Test',
     'Miller, CMille81',
+    'Aguirre, Jason',  # Added my name
+    'Muin, Emmanuel',
+    'Kelly, Jamiyah',
+    'John Gallagher aka(masterHazzrd)',
+    'Ka, Elizabeth'
     'Aguirre, Jason'  # Added my name
     'Muin, Emmanuel'
     'Kelly, Jamiyah'
     'Ruhashya, Marcus'
+    'Millsaps, Eddie'
+    'Kelly, Jamiyah',
+    'Ayala, Kevin'
+    'Aguirre, Jason',  # Added my name
+    'Muin, Emmanuel',
+    'Kelly, Jamiyah',
+    'Gavin, Rockwell'
 
 ]
 
