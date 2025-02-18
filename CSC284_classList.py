@@ -18,6 +18,16 @@ CSC284_2025SP=[
     'Muin, Emmanuel',
     'Kelly, Jamiyah',
     'Ka, Elizabeth'
+    'Aguirre, Jason'  # Added my name
+    'Muin, Emmanuel'
+    'Kelly, Jamiyah'
+    'Millsaps, Eddie'
+    'Kelly, Jamiyah',
+    'Ayala, Kevin'
+    'Aguirre, Jason',  # Added my name
+    'Muin, Emmanuel',
+    'Kelly, Jamiyah',
+    'Gavin, Rockwell'
 
 ]
 
