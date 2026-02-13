@@ -9,8 +9,8 @@ This program will be downloaded by class members of CSC284 and
 '''
 
 classList=[
-'Joel Moore'
-
+'Joel Moore',
+'Gramiani Diaz'
 ]
 
 print(f'\nClass List for CSC284 Spring 2026 ')
