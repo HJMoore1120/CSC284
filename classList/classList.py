@@ -11,6 +11,8 @@ This program will be downloaded by class members of CSC284 and
 classList=[
 'Joel Moore'
 'Chris Pinto'
+'Joel Moore',
+'Mazen Alashbi'
 
 ]
 
