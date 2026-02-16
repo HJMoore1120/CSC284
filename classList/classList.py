@@ -13,6 +13,7 @@ classList=[
 'David Aguilar'
 'Chris Sánchez'
 'Joel Moore'
+'William Reinke'
 'Isabella Denning'
 'Chris Pinto'
 'Joel Moore',
