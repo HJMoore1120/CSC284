@@ -9,11 +9,12 @@ This program will be downloaded by class members of CSC284 and
 '''
 
 classList=[
+'Joel Moore',
+'Chris Sánchez'
 'Joel Moore'
 'Chris Pinto'
 'Joel Moore',
 'Mazen Alashbi'
-
 ]
 
 print(f'\nClass List for CSC284 Spring 2026 ')
