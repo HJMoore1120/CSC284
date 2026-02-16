@@ -12,6 +12,7 @@ classList=[
 'Joel Moore',
 'Chris Sánchez'
 'Joel Moore'
+'Isabella Denning'
 'Chris Pinto'
 'Joel Moore',
 'Mazen Alashbi'
