@@ -9,8 +9,14 @@ This program will be downloaded by class members of CSC284 and
 '''
 
 classList=[
+'Joel Moore',
+'David Aguilar'
+'Chris Sánchez'
 'Joel Moore'
 'Justin Gillin'
+'Kristina Brown'
+'William Reinke'
+'Isabella Denning'
 'Chris Pinto'
 'Joel Moore',
 'Mazen Alashbi'
